@@ -1,7 +1,7 @@
 # Personal Finance Tracker
 
 ## Project Overview
-This is a simple command-line **Personal Finance Tracker** written in Python. It allows users to:
+This is a simple CLI **Personal Finance Tracker** written in Python. It allows users to:
 - Log expenses with a description, category, and amount
 - Organizes expenses by category using dictionary
 - View all recorded expenses with itemized breakdown
@@ -9,7 +9,7 @@ This is a simple command-line **Personal Finance Tracker** written in Python. It
 - Handle invalid or empty inputs using exception handling
 
 
-## How to R
+## How to Run
 1. Make sure you have Python 3 installed.
 2. Clone this repo or download `finance_tracker.py`.
 3. Run the script:
